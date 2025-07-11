@@ -179,6 +179,7 @@ To begin working with RunCode:
 
 **Website**: runcode.sh
 **Services**: Available through the "get started" portal on the website
+**Email**: contact@runcode.sh
 
 ---
 
